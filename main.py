@@ -1,5 +1,4 @@
 # Isaac Francisco Marte
-# Date: 11/15/2021
 # Course: SDEV 300
 
 """Application provides several functionalities from formatting phone numbers and zipcodes,
